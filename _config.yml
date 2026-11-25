@@ -1,4 +1,6 @@
 title: BitNinja Technology
+url: https://bitninja.dev
+baseurl: /blogs
 
 # Exclude dev files from the Jekyll build
 exclude:
